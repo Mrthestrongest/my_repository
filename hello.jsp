@@ -6,6 +6,6 @@
 </head>
 <body>
 	hello my jsp...+++
-	dev..
+	d
 </body>
 </html>
